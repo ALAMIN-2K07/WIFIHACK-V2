@@ -1,4 +1,4 @@
-# 🛡️ W8Team WiFi Hacker - Advanced Auto System
+# 🛜 WiFi Hacker - Advanced Auto System
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 **🚀 Professional WiFi Penetration Testing Tool**  
 *Automated WPS Attack System with AI-Powered PIN Prediction*
 
-[📱 Telegram](https://t.me/W8SOJIB) • [📋 Features](#-features) • [🔧 Installation](#-installation) • [📖 Usage](#-usage)
+[📱 Telegram](https://t.me/ALAMIN2K07) • [📋 Features](#-features) • [🔧 Installation](#-installation) • [📖 Usage](#-usage)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🌟 **Overview**
 
-W8Team WiFi Hacker is an advanced, automated WiFi penetration testing tool designed for security professionals and ethical hackers. Built specifically for Termux (Android) and Linux environments, it combines multiple attack vectors with AI-powered PIN prediction for maximum effectiveness.
+ᯤ WiFi Hacker is an advanced, automated WiFi penetration testing tool designed for security professionals and ethical hackers. Built specifically for Termux (Android) and Linux environments, it combines multiple attack vectors with AI-powered PIN prediction for maximum effectiveness.
 
 ### ⚡ **Key Highlights**
 - 🎯 **Fully Automated** - Zero configuration needed
@@ -77,7 +77,7 @@ Unlike traditional WiFi tools that require extensive manual configuration, W8Tea
 #### **🚀 Quick Install (1-Minute Setup)**
 ```bash
 # Copy and paste this entire block:
-pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/W8SOJIB/W8RootWifiHKV2 && cd W8RootWifiHKV2 && echo "🎉 Ready to hack! Run: tsu && sudo python oneshot.py"
+pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/ALAMIN-2K07/WIFIHACK-V2 && cd WIFIHACK-V2 && echo "🎉 Ready to hack! Run: tsu && sudo python oneshot.py"
 ```
 
 #### **📋 Step-by-Step Installation**
@@ -150,8 +150,8 @@ pip install pyfiglet psutil requests
 ```
 # Clone repository
 ```
-git clone https://github.com/W8SOJIB/W8RootWifiHKV2
-cd W8RootWifiHKV2
+git clone https://github.com/ALAMIN-2K07/WIFIHACK-V2
+cd WIFIHACK-V2
 ```
 # Optional: Run auto-installer for additional setup
 ```
@@ -169,8 +169,8 @@ sudo python oneshot.py
 
 ```bash
 # Clone repository
-git clone https://github.com/W8SOJIB/W8RootWifiHKV2
-cd W8RootWifiHKV2
+git clone https://github.com/ALAMIN-2K07/WIFIHACK-V2
+cd WIFIHACK-V2
 
 # Install dependencies
 sudo apt update
@@ -196,25 +196,25 @@ python oneshot.py
 The tool will display a beautiful menu interface with Smart AI capabilities:
 
 ```
-╔═══════════════════ LIVE STATISTICS ═══════════════════╗
-║ TIME: 2024-12-19 15:30:45                            ║
-║ AUTHOR: W8Team/W8SOJIB                               ║
-║ TELEGRAM: https://t.me/W8SOJIB                       ║
-╚═══════════════════════════════════════════════════════╝
+╔═════════════════ LIVE  STATISTICS ═════════════════╗
+║ TIME: 2025-12-21 23:39:11                          ║
+║ MODDER: MOHAMMAD ALAMIN                            ║
+║ TELEGRAM: ALAMIN2K07                               ║
+╚════════════════════════════════════════════════════╝
 
-╔══════════════════════════════════════════════════════════════╗
-║                  🛡️  W8Team WiFi Hacker                     ║
-║                    Advanced Auto System                      ║
-║                     💚 This Tool Free 💚                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  [1] 🚀 Auto Attack - Find High Vulnerability & Auto Hack    ║
-║  [2] 📡 Scan & Attack WiFi - Select Target & Pixie Dust     ║
-║  [3] 🔥 BruteForce Attack - Scan, Select & PIN Attack       ║
-║  [4] 🤖 AI PIN Prediction - ALL 100 Million PINs Attack    ║
-║  [5] 📋 View All Saved Passwords                            ║
-║  [6] 📱 Tool Author - Open Telegram                         ║
-║  [7] 🚪 Exit                                                ║
-╚══════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════╗
+║                    ᯤ WiFi Hacker                   ║║                Advanced Auto System                ║
+║                💚 This Tool Free 💚                ║
+╠════════════════════════════════════════════════════╣
+║[1] 🚀 Auto Attack - Find High Vuln. & Auto Hack    ║
+║[2] 📡 Scan & Attack WiFi-Select Target & PixieDust ║
+║[3] 🔥 BruteForce Attack - Scan, Select & PIN Attack║
+║[4] 🤖 AI PIN Prediction - 100 Million PINs Attack  ║
+║[5] 📋 View All Saved Passwords                     ║
+║[6] 📱 Tool Modder                                  ║
+║[7] 🚪 Exit                                         ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ### **🎯 Attack Modes**
@@ -516,6 +516,7 @@ Users must ensure they have proper authorization before testing any wireless net
 * WPS security researchers
 * Termux development team
 * Community testers and contributors
+* BIG THANKS[W8SOJIB](https://t.me/W8SOJIB)
 
 ## 📄 **License**
 
@@ -526,5 +527,6 @@ This project is licensed under the Educational License - see the LICENSE file fo
 ---
 
 **Made with ❤️ by W8Team**
+*MOD BY MOHAMMAD ALAMIN*
 
-📱 [Telegram](https://t.me/W8SOJIB) • ⭐ Star this repo • 🍴 Fork
+📱 [Telegram](https://t.me/ALAMIN2K07) • ⭐ Star this repo • 🍴 Fork
