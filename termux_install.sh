@@ -137,7 +137,7 @@ echo -e "${YELLOW}•${NC} Target WiFi networks nearby"
 echo ""
 
 echo -e "${BLUE}📱 SUPPORT & UPDATES:${NC}"
-echo -e "${YELLOW}•${NC} Telegram Channel: ${CYAN}https://t.me/ALAMIN2K07${NC}"
+echo -e "${YELLOW}•${NC} Contact : ${CYAN}https://t.me/ALAMIN2K07${NC}"
 echo -e "${YELLOW}•${NC} Get latest updates and support"
 echo -e "${YELLOW}•${NC} Report bugs and request features"
 echo ""

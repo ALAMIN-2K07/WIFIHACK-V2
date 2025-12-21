@@ -1323,7 +1323,7 @@ class MenuHandler:
                     
                 elif choice == "7":
                     print("\n[*] 👋 Thanks for using WiFi Hacker!")
-                    print("[*] 📱 Contact us: https://t.me/ALAMIN2K07")
+                    print("[*] 📱 Contact : https://t.me/ALAMIN2K07")
                     break
                     
                 else:
