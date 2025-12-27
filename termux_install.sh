@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# W8Team WiFi Hacker - Termux Installation Script
+# WiFi Hacker - Termux Installation Script
 # Author: W8Team/W8SOJIB
-# Telegram: https://t.me/W8SOJIB
+# Mdder : MOHAMMAD ALAMIN 
+# Telegram: https://t.me/ALAMIN2K07 
 # Version: 2.0
 
 clear
